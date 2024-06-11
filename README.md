@@ -2,7 +2,7 @@
 
 <!-- Increased size of the first image -->
 <p align="center">
-  <img align="center" alt="Coding" width="800"  src="https://miro.medium.com/v2/resize:fit:1050/0*HQ7WKolP9iEr0z6x.gif">
+  <img align="center" alt="Coding" width="800"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </p>
 
 <h1 align="center">Hi 👋, I'm Basani Rithvik Reddy</h1>
